@@ -1,0 +1,204 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "code": "GLNG-KS-08-01",
+            "name": "ALYSA ASTRY DJAYANTI",
+            "address": "Jakarta",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin mempelajari hal baru. Saya juga ingin update dengan perkembangan bahasa pemrograman. Jadi, saya berharap bisa mengikuti dan mempelajari serta kedepannya dapat mendalamai bahasa pemrograman Go."
+        },
+        {
+            "id": "2",
+            "code": "GLNG-KS-08-02",
+            "name": "HAFIDZURROHMAN SAIFULLAH",
+            "address": "Jakarta",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin mempelajari bahasa pemrograman baru dan karena Golang juga sering digunakan di dunia pekerjaan sehingga membuat saya tertarik untuk mempelajarinya."
+        },
+        {
+            "id": "3",
+            "code": "GLNG-KS-08-03",
+            "name": "ADINDA DESTIFANY ZENNIAR",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "4",
+            "code": "GLNG-KS-08-04",
+            "name": "DIMAS FAJRI PAMUNGKAS",
+            "address": "Sidoarjo",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Dikarenakan saya ingin memahami bahasa go untuk fokus saya kedepannya sebagai programmer"
+        },
+        {
+            "id": "5",
+            "code": "GLNG-KS-08-05",
+            "name": "Ahmad Arsy",
+            "address": "Palembang",
+            "occupation": "Fisikawan",
+            "joining_reason": "Agar diterima di Google sebagai Software Engineer"
+        },
+        {
+            "id": "6",
+            "code": "GLNG-KS-08-06",
+            "name": "ALIF WILDAN AZZAHRAN",
+            "address": "London",
+            "occupation": "Hitman",
+            "joining_reason": "ingin explore ilmu pemrograman yang belum saya terima di kampus untuk memperluas skillset saya"
+        },
+        {
+            "id": "7",
+            "code": "GLNG-KS-08-07",
+            "name": "SHALAISHA AMELIA PUTRI GEMINI",
+            "address": "Pluto",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin mempelajari bahasa pemrograman baru dan dapat menguasai beberapa bahasa pemrograman"
+        },
+        {
+            "id": "8",
+            "code": "GLNG-KS-08-08",
+            "name": "ILHAM DWIKI PUTRA RUMONDOR",
+            "address": "Wano",
+            "occupation": "Arkeolog",
+            "joining_reason": "Golang saat ini menjadi bahasa yang populer dan sedang naik daun sehingga permintaan developper golang meningkat. Saya mengikuti program ini agar dapat mempelajari bahasa golang untuk mengikuti permintaan developper golang yang banyak."
+        },
+        {
+            "id": "9",
+            "code": "GLNG-KS08-09",
+            "name": "VALDY RAMADHAN",
+            "address": "Dimensi Lain",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Ingin mengimplementasikan dan mengembangkan aplikasi Back-end dengan bahasa pemograman Golang"
+        },
+        {
+            "id": "10",
+            "code": "GLNG-KS08-010",
+            "name": "Oskar Maha Kasi",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "11",
+            "code": "GLNG-KS08-011",
+            "name": "ADEN HIDAYATULOH",
+            "address": "Semarang",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Ingin mempelajari hal baru terutama pada bidang backend"
+        },
+        {
+            "id": "12",
+            "code": "GLNG-KS08-012",
+            "name": "EKI ALFANI",
+            "address": "Lombok",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Karena ingin menjadi Backend Engineer"
+        },
+        {
+            "id": "13",
+            "code": "GLNG-KS08-013",
+            "name": "AHMAD DZAKY HAFIDZ MUSTA'IN",
+            "address": "Kediri",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Menambah pengetahuan lebih banyak bahasa pemrograman"
+        },
+        {
+            "id": "14",
+            "code": "GLNG-KS08-014",
+            "name": "Ahmad Zaky Nadimsyah",
+            "address": "Jalan Rajawali 10, Palembang",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin belajar banyak bahasa pemrograman yang mengarah ke Back-End Development, dan salah satunya adalah Golang"
+        },
+        {
+            "id": "15",
+            "code": "GLNG-KS08-015",
+            "name": "FABIANUS JERICHO HARAPAN JAYA SIPAYUNG",
+            "address": "Semarang",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Karena bahasa golang sering dipakai untuk sekarang khususnya dalam Backend"
+        },
+        {
+            "id": "16",
+            "code": "GLNG-KS08-016",
+            "name": "TIMOTIUS WINSEN BASTIAN",
+            "address": "Semarang",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Ingin memperdalam Back-End terutama dengan bahasa pemrograman Golang"
+        },
+        {
+            "id": "17",
+            "code": "GLNG-KS08-017",
+            "name": "Bagus Maulidan Purnama",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "18",
+            "code": "GLNG-KS08-018",
+            "name": "SHERLY FAUZIYAH SYAHARANI",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "19",
+            "code": "GLNG-KS08-019",
+            "name": "GIAN PRADIPTA GUNAWAN",
+            "address": "Solo",
+            "occupation": "Mahasiswa",
+            "joining_reason": "karena go sering dipakai untuk backend sekarang"
+        },
+        {
+            "id": "20",
+            "code": "GLNG-KS08-020",
+            "name": "JENGHIZKHAN",
+            "address": "Bogor",
+            "occupation": "Mahasiswa",
+            "joining_reason": ""
+        },
+        {
+            "id": "21",
+            "code": "GLNG-KS08-021",
+            "name": "Muhammad Yazid Baihaqi",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "22",
+            "code": "GLNG-KS08-022",
+            "name": "Raditya Rifan Zaidan",
+            "address": "Depok",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Karena saya ingin mendalami materi terkait Backend"
+        },
+        {
+            "id": "23",
+            "code": "GLNG-KS08-023",
+            "name": "BAGAS SUMANTRI",
+            "address": "Jakarta",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Ingin mencoba hal yang baru "
+        },
+        {
+            "id": "24",
+            "code": "GLNG-KS08-024",
+            "name": "BOBBY PRATAMA",
+            "address": "",
+            "occupation": "",
+            "joining_reason": ""
+        },
+        {
+            "id": "25",
+            "code": "GLNG-KS08-025",
+            "name": "MUHAMMAD SYABDEWA",
+            "address": "Papua",
+            "occupation": "Mahasiswa",
+            "joining_reason": "Saya ingin dapat memahami bahasa Go karna bahasa pemrograma Go banyak digunakan untuk Back-End"
+        }
+    ]
+}
